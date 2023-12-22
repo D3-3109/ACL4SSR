@@ -332,6 +332,10 @@ IP-CIDR,203.104.128.0/19,no-resolve
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 
+# Coze
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,ciciai.com
+
 # OneDrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
