@@ -9,3 +9,5 @@ DOMAIN,passport.bilibili.com
 DOMAIN,live-trace.bilibili.com
 DOMAIN,message.bilibili.com
 DOMAIN,cm.bilibili.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
